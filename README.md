@@ -20,11 +20,11 @@ The application features a **lyrics section** where the lyrics of the currently 
 You can check out the live demo of the project deployed on Netlify:
 [Music Player Web App](#)
 
-## How it Works 🎬
+<!-- ## How it Works 🎬
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
-Click the thumbnail above to watch a video demonstration of how the application works.
+<!-- Click the thumbnail above to watch a video demonstration of how the application works. -->
 
 ## Installation 🔧
 
