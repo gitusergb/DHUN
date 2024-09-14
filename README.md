@@ -16,12 +16,12 @@
 ## Lyrics Section 🎶
 The application features a **lyrics section** where the lyrics of the currently playing song are displayed. Lyrics are fetched dynamically from external text files. If the lyrics for a song are not available, a fallback message is shown indicating "Lyrics not available."
 
-## Demo 🚀
+<!-- ## Demo 🚀
 You can check out the live demo of the project deployed on Netlify:
-[Music Player Web App](#)
+[Music Player Web App](#) -->
 
 <!-- ## How it Works 🎬
-
+📹 Watch the demo video to see how it works!
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
 <!-- Click the thumbnail above to watch a video demonstration of how the application works. -->
