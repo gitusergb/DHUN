@@ -47,6 +47,10 @@ You can check out the live demo of the project deployed on Netlify:
 ## Screenshots 📸
 ![Music Player Screenshot](https://i.ibb.co/Sn43MRP/screen.png)
 
+<!-- https://66e53c8b7537c4085b041039--earnest-clafoutis-bc4905.netlify.app/ -->
+
+<!-- https://earnest-clafoutis-bc4905.netlify.app/ -->
+
 ## Technologies Used 🛠
 - HTML5
 - CSS3
